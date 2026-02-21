@@ -56,18 +56,18 @@ SVM	87%
 
 **📂 Project Structure**
 Introverted-Personality-Analysis/
-│
-├── data/
-│   └── personality_dataset.csv
-│
-├── notebooks/
-│   └── EDA_and_Model.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── model.py
-│
-├── requirements.txt
+│<br>
+├── data/<br>
+│   └── personality_dataset.csv<br>
+│<br>
+├── notebooks/<br>
+│   └── EDA_and_Model.ipynb<br>
+│<br>
+├── src/<br>
+│   ├── preprocessing.py<br>
+│   ├── model.py<br>
+│<br>
+├── requirements.txt<br>
 └── README.md
 
 
