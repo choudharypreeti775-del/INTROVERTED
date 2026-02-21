@@ -70,11 +70,6 @@ Introverted-Personality-Analysis/
 ├── requirements.txt
 └── README.md
 
-**🧪 How to Run**
-git clone https://github.com/yourusername/Introverted-Personality-Analysis.git
-cd Introverted-Personality-Analysis
-pip install -r requirements.txt
-jupyter notebook
 
 **🎯 Key Learnings**
 
